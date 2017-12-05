@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\bin\Debug\Nomina.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\bin\Debug\Nomina.exe
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\bin\Debug\Nomina.pdb
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\obj\Debug\Nomina.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\obj\Debug\Nomina.exe
+c:\users\user\documents\visual studio 2013\Projects\Nomina\Nomina\obj\Debug\Nomina.pdb
